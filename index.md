@@ -3,7 +3,9 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Hi All, I'm Namrata**
+
+A current student of Management Information Systems at _San Diego State University_  with major with 2 years of experience as an Application Developer at BNY Mellon.
 
 ```markdown
 Syntax highlighted code block
